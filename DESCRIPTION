@@ -1,0 +1,13 @@
+Package: FinalProject7
+Type: Package
+Title:Linear Regression
+Version: 0.1.0
+Author: Jian Cui, Jiangfeng Zhang, Vasavi Prakash
+Maintainer: Jian Cui <jzc0198@auburn.edu> Jianfeng Zhang <Jzz0093@auburn.edu>
+Description:R Package for linear regression as a part of final project of STAT6210.
+    To implement linear regression function for understanding the
+    algebra behind least squares and making use of the matrix operations in R.
+License: GNU General Public Licence
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
