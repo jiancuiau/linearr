@@ -1,5 +1,4 @@
-# FinalProject7
-### STAT 6210 <br>
+
 ## Members <br>
 Jian Cui <br>
 Jianfeng Zhang <br>

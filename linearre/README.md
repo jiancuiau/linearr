@@ -1,8 +1,7 @@
-# Group 7
 
 ## Linear Regression
 
-R Package for linear regression as a part of final project of STAT6210.
+R Package for linear regression.
 
 This package calculates -  
 
