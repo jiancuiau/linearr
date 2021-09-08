@@ -4,11 +4,13 @@ Jian Cui <br>
 Jianfeng Zhang <br>
 Vasavi Prakash <br>
 
-## Linear Regression Package-FinalProject7
+## Linear Regression confidence intervals with bootstrap and asymptotic methods
 
-R Package for linear regression as a part of final project of STAT6210.
+R Package for Using bootstrap and asymptotic methods to compute confidence intervals for parameters in linear regression.
 
 This package calculates -  
+
+Install code: 'devtools::install_github('jiancuiau/linearr')'
 
 ### Confidence intervals: The user can choose 
 
